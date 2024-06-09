@@ -67,21 +67,7 @@ Período: `Jan 2015` - `Jan 2018`
 &nbsp;
 &nbsp;
 
-  # 🚀 Tecnologias 
-<!-- <div align="center">
-  <img align="center" alt="typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="vuejs" height="40" width="50" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="angular" height="40" width="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="sass" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="java" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="figma" height="40" width="50" src="https://img.icons8.com/color/48/spring-logo.png" />
-          
-</div> -->
+# 🚀 Tecnologias 
 
 ### Linguagens
 
@@ -89,13 +75,15 @@ Período: `Jan 2015` - `Jan 2018`
    
 ### Frameworks e bibliotecas
 
-<img src="https://skillicons.dev/icons?i=vue,angular,vuetify,spring,tailwind,wordpress,jest" alt="Frameworks e bibliotecas" />
-<img style="background:#242938; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" alt="ChartJS"/>
-<img style="background:#242938; border-radius: 10px; margin-left: 4px;" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" />
-<img style="background:#242938; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="Eslint" />
-<img style="background:#242938; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="Angular Material" />
-<img style="background:#242938; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="AntDesign"/>
-          
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,angular,vuetify,spring,tailwind,wordpress,jest" alt="Frameworks e bibliotecas" />
+  <img style="display:inline-block; background:#242938 !important; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" alt="ChartJS"/>
+  <img style="display:inline-block; background:#242938; border-radius: 10px; margin-left: 4px;" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" />
+  <img style="display:inline-block; background:#242938; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="Eslint" />
+  <img style="display:inline-block; background:#242938; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="Angular Material" />
+  <img style="display:inline-block; background:#242938; border-radius: 10px; margin-left: 4px; padding: 6px;" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="AntDesign"/>
+</p>
+
 ### Database/ORMs e Cloud Services
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,firebase,aws,vercel,heroku" alt="Database and ORMs" />
@@ -114,15 +102,14 @@ Período: `Jan 2015` - `Jan 2018`
 
 [**Avasus**](https://avasus-theta.vercel.app) \
 **VueJs • Javascript • Vuetify • Scss • ChartJs** \
-Descrição: `Visualização de módulos educacionais, cursos, portal de transparência e informações sobre parceiros. ` \
+Descrição: <span style="color:#ffe8a0c4;">Visualização de módulos educacionais, cursos, portal de transparência e informações sobre parceiros.</span> \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Pokemon" style="margin-right:1rem; background:white;" src="https://raw.githubusercontent.com/paauloedu/pokedex-vuejs/main/src/assets/img/logo.png"/>](https://pokedex-vuejs-tau.vercel.app)
 
 [**Pokedex**](https://pokedex-vuejs-tau.vercel.app) \
 **VueJs • Javascript • Vuetify • ChartJs • Jest • Vue-i18n** \
-Descrição: `Listagem de Pokémons com scroll infinito, filtros por nome, ID, tipo e espécie, visualização de sprites, cadeia de evolução, movimentos de ataque e todos os jogos em que o Pokémon está presente.` \
+Descrição: <span style="color:#ffe8a0c4;">Listagem de Pokémons com scroll infinito, filtros por nome, ID, tipo e espécie, visualização de sprites, cadeia de evolução, movimentos de ataque e todos os jogos em que o Pokémon está presente.</span> \
 <br/>
 &nbsp;
 &nbsp;
-          
